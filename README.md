@@ -1,19 +1,3 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          display: flex;
-          width: 100%;
-          height: 300px;
-          background-color: black;
-          color: white;
-        }
-      </style>
+I am a self-taught software engineer with over a year of industry experience. In my freetime I build everything from Chrome extensions to Unity games, but my professional focus is on full-stack web development. My journey into tech has been driven by curiosity and a love for creating innovative solutions.
 
-      <div class="container">
-        <h1>tEST</h1>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
+Before I discovered a professional interest in programming, I was working in the field of clinical research. I have always loved to work with people, and with organizations that I believe are contributing to the common good. I am eager to bring my diverse skill set and enthusiasm to a purpose-driven development team.
