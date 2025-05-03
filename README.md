@@ -2,7 +2,6 @@ Hi I'm Henry, and I build things for the web. In my freetime I build everything 
 
 <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">  
   <circle cx="50" cy="50" r="40" fill="blue">  
-    <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>  
   </circle>  
 </svg>  
 
