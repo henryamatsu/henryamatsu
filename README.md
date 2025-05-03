@@ -2,4 +2,4 @@ Hi I'm Henry, and I build things for the web. In my freetime I build everything 
 
 Before I discovered a professional interest in programming, I was working in the field of clinical research. I have always loved to work with people, and with organizations that I believe are contributing to the common good. I am eager to bring my diverse skill set and enthusiasm to a purpose-driven development team.
 
-<img src="your-wave.svg" width="100%" style="display: block;">
+<img src="wave-pattern.svg" width="100%" style="display: block;">
