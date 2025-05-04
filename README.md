@@ -1,3 +1,7 @@
+<div align="center"><img src="logo.svg" alt="HM logo"/></div>
+
+<hr />
+
 <div>
 Hi I'm Henry, and I build things for the web. In my freetime I build everything from Chrome extensions to Unity games, but my professional focus is on full-stack web development. My journey into tech has been driven by curiosity and a love for creating innovative solutions.<br><br>Before I discovered a professional interest in programming, I was working in the field of clinical research. I have always loved to work with people, and with organizations that I believe are contributing to the common good. I am eager to bring my diverse skill set and enthusiasm to a purpose-driven development team.
 </div>
@@ -5,10 +9,10 @@ Hi I'm Henry, and I build things for the web. In my freetime I build everything 
 <hr/>
 
 <div align="center">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/henryamatsu/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin logo"/></a>
-    <a href="https://x.com/henryamatsu"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X logo"/></a>
-    <a href="https://bsky.app/profile/henryamatsu"><img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF" alt="Bluesky logo"/></a>
-    <a href="mailto:henryamatsu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="linkedin logo"/></a>
+    <a href="https://www.linkedin.com/in/henryamatsu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin logo"/></a>
+    <a href="https://x.com/henryamatsu" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X logo"/></a>
+    <a href="https://bsky.app/profile/henryamatsu" target="_blank"><img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF" alt="Bluesky logo"/></a>
+    <a href="mailto:henryamatsu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="linkedin logo"/></a>
 </div>
 
 <hr/>
