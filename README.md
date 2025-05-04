@@ -1,4 +1,4 @@
-<table>
+<table border="0">
   <tr>
     <td width="33.33%">
         Hi I'm Henry, and I build things for the web. In my freetime I build everything from Chrome extensions to Unity games, but my professional focus is on full-stack web development. My journey into tech has been driven by curiosity and a love for creating innovative solutions.
