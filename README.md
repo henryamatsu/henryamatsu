@@ -11,7 +11,7 @@
     </td>
   </tr>
   <tr>
-  <td align="center">
+  <td align="center" colspan="3">
     <a href="https://www.linkedin.com/in/henryamatsu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin logo"/></a>
     <a href="https://x.com/henryamatsu" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X logo"/></a>
     <a href="https://bsky.app/profile/henryamatsu" target="_blank"><img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF" alt="Bluesky logo"/></a>
@@ -19,7 +19,7 @@
 </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" colspan="3">
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
         <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
