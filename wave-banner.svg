@@ -30,17 +30,16 @@
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg42" />
-  <g
-     id="wave">
-    <animateTransform 
+   <animateTransform 
       attributeName="transform"
       type="translate"
-      from="0 0"
-      to="100 0"
+      from="-100 0"
+      to="0 0"
       dur="3s"
       repeatCount="indefinite"
     />
-     
+  <g
+     id="wave"> 
     <g
        id="right-semi-circle"
        transform="matrix(1,0,0,-1,0,100)">
