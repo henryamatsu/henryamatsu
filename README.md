@@ -12,10 +12,10 @@
   </tr>
   <tr>
   <td align="center" colspan="3">
-    <a href="https://www.linkedin.com/in/henryamatsu/" target="_blank"><img width="50" src="/LinkedIn_logo.svg" alt="linkedin logo"/></a>
-    <a href="https://x.com/henryamatsu" target="_blank"><img width="50" src="/X_logo.svg"/></a>
-    <a href="https://bsky.app/profile/henryamatsu.bsky.social" target="_blank"><img width="50" src="/Bluesky_Logo.svg" alt="Bluesky logo"/></a>
-    <a href="mailto:henryamatsu@gmail.com" target="_blank"><img width="50" src="/Gmail_icon.svg" alt="linkedin logo"/></a>
+    <a href="https://www.linkedin.com/in/henryamatsu/" target="_blank"><img height="50" src="/LinkedIn_logo.svg" alt="linkedin logo"/></a>
+    <a href="https://x.com/henryamatsu" target="_blank"><img height="50" src="/X_logo.svg"/></a>
+    <a href="https://bsky.app/profile/henryamatsu.bsky.social" target="_blank"><img height="50" src="/Bluesky_Logo.svg" alt="Bluesky logo"/></a>
+    <a href="mailto:henryamatsu@gmail.com" target="_blank"><img height="50" src="/Gmail_icon.svg" alt="linkedin logo"/></a>
 </td>
   </tr>
   <tr>
