@@ -1,4 +1,4 @@
-<div align="center"><img src="logo.svg" alt="HM logo"/></div>
+<div align="center"><img src="logo.svg" alt="HM logo" width="300px" height="300px"/></div>
 
 <hr />
 
