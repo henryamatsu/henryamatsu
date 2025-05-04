@@ -1,4 +1,4 @@
-<div align="center"><img src="logo.svg" alt="HM logo" width="100px" height="100px" style="float: left"/></div>
+<div align="center" style="float: left"><img src="logo.svg" alt="HM logo" width="100px" height="100px"/></div>
 
 <!-- <hr /> -->
 
