@@ -2,6 +2,4 @@ Hi I'm Henry, and I build things for the web. In my freetime I build everything 
 
 Before I discovered a professional interest in programming, I was working in the field of clinical research. I have always loved to work with people, and with organizations that I believe are contributing to the common good. I am eager to bring my diverse skill set and enthusiasm to a purpose-driven development team.
 
-<p style="width: 100%; overflow: hidden;">
 ![Wave Pattern](https://raw.githubusercontent.com/henryamatsu/henryamatsu/refs/heads/main/wave-banner.svg)
-</p>
