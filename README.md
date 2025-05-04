@@ -1,6 +1,18 @@
-| Hi I'm Henry, and I build things for the web. In my freetime I build everything from Chrome extensions to Unity games, but my professional focus is on full-stack web development. My journey into tech has been driven by curiosity and a love for creating innovative solutions. | <img src="logo.svg" alt="HM logo" width="200px" height="200px"/> | Before I discovered a professional interest in programming, I was working in the field of clinical research. I have always loved to work with people, and with organizations that I believe are contributing to the common good. I am eager to bring my diverse skill set and enthusiasm to a purpose-driven development team. |
-| - | - | - |
-<hr/>
+<table>
+  <tr>
+    <td width="33.33%">
+        Hi I'm Henry, and I build things for the web. In my freetime I build everything from Chrome extensions to Unity games, but my professional focus is on full-stack web development. My journey into tech has been driven by curiosity and a love for creating innovative solutions.
+    </td>
+    <td width="33.33%">
+        <img src="logo.svg" alt="HM logo"/>
+    </td>
+    <td width="33.33%">
+        Before I discovered a professional interest in programming, I was working in the field of clinical research. I have always loved to work with people, and with organizations that I believe are contributing to the common good. I am eager to bring my diverse skill set and enthusiasm to a purpose-driven development team.
+    </td>
+  </tr>
+</table>
+
+<hr />
 
 <div align="center">
     <a href="https://www.linkedin.com/in/henryamatsu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin logo"/></a>
