@@ -6,18 +6,30 @@
     Before I discovered a professional interest in programming, I was working in the field of clinical research. I have always loved to work with people, and with organizations that I believe are contributing to the common good. I am eager to bring my diverse skill set and enthusiasm to a purpose-driven development team.
   </p>
 </div>
-<div width="300px" align="center">
+
+<hr/>
+
+<div width="300" align="center">
   <span>
     <a href="https://www.linkedin.com/in/henryamatsu/" target="_blank"><img height="50" src="/LinkedIn_logo.svg" alt="linkedin logo"/></a>
     <a href="https://x.com/henryamatsu" target="_blank"><img height="50" src="/X_logo.svg"/></a>
   </span>
-    <a href="https://www.henryamatsu.com"><img src="logo.svg" alt="HM logo"/></a>
+
+  <br/>
+
+  <a href="https://www.henryamatsu.com"><img src="logo.svg" alt="HM logo"/></a>
+  
+  <br/>
+  
   <span>
     <a href="https://bsky.app/profile/henryamatsu.bsky.social" target="_blank"><img height="50" src="/Bluesky_Logo.svg" alt="Bluesky logo"/></a>
     <a href="mailto:henryamatsu@gmail.com" target="_blank"><img height="50" src="/Gmail_icon.svg" alt="linkedin logo"/></a>
   </span>
   
 </div>
+
+<hr/>
+
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
