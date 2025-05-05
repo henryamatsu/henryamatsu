@@ -9,7 +9,7 @@
 
 <hr/>
 
-<table>
+<table align="center">
     <tr>
       <td><a href="https://www.linkedin.com/in/henryamatsu/" target="_blank"><img width="50" src="LinkedIn_logo.svg" alt="linkedin logo"/></a></td>
       <td rowspan="2"><a href="https://www.henryamatsu.com"><img src="logo.svg" alt="HM logo" width="200"/></a></td>
