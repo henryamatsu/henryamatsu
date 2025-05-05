@@ -10,17 +10,19 @@
 <hr/>
 
 <div align="center">
-  <span>
-    <div><a href="https://www.linkedin.com/in/henryamatsu/" target="_blank"><img height="50" src="/LinkedIn_logo.svg" alt="linkedin logo"/></a></div>
-    <div><a href="https://x.com/henryamatsu" target="_blank"><img height="50" src="/X_logo.svg"/></a></div>
-  </span>
+  <div>
+    <span>
+      <div><a href="https://www.linkedin.com/in/henryamatsu/" target="_blank"><img height="50" src="/LinkedIn_logo.svg" alt="linkedin logo"/></a></div>
+      <div><a href="https://x.com/henryamatsu" target="_blank"><img height="50" src="/X_logo.svg"/></a></div>
+    </span>
 
-  <a href="https://www.henryamatsu.com"><img src="logo.svg" alt="HM logo" width="200"/></a>
+    <a href="https://www.henryamatsu.com"><img src="logo.svg" alt="HM logo" width="200"/></a>
 
-  <span>
-    <div><a href="https://bsky.app/profile/henryamatsu.bsky.social" target="_blank"><img height="50" src="/Bluesky_Logo.svg" alt="Bluesky logo"/></a></div>
-    <div><a href="mailto:henryamatsu@gmail.com" target="_blank"><img height="50" src="/Gmail_icon.svg" alt="linkedin logo"/></a></div>
-  </span>
+    <span>
+      <div><a href="https://bsky.app/profile/henryamatsu.bsky.social" target="_blank"><img height="50" src="/Bluesky_Logo.svg" alt="Bluesky logo"/></a></div>
+      <div><a href="mailto:henryamatsu@gmail.com" target="_blank"><img height="50" src="/Gmail_icon.svg" alt="linkedin logo"/></a></div>
+    </span>
+  </div>
 </div>
 
 <hr/>
