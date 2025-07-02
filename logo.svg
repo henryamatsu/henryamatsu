@@ -1,0 +1,19 @@
+<svg viewBox="24 24 52 52" xmlns="http://www.w3.org/2000/svg">
+    <polyline stroke="hsl(240deg 25% 75%)" fill="hsl(240deg 25% 75%)" stroke-width="3" stroke-dasharray="500" stroke-dashoffset="500" stroke-linecap="round" points="   49.998,46   56.93,42   56.932,30   63.86,26   70.788,30   70.788,70   63.86,74   56.932,70   56.93,58   50,62   43.072,58   43.068,70   36.14,74   29.212,70   29.212,30   36.14,26   43.068,30   43.068,42   49.998,46">
+        <animate 
+            attributeName="stroke-dashoffset" 
+            from="500" 
+            to="-500"
+            dur="4s" 
+            repeatCount="indefinite"/>
+    </polyline>
+    <polyline fill="hsl(240deg 25% 25%)" points="   36.14,34   36.14,74   43.07,70   43.07,30   "></polyline><polyline fill="hsl(240deg 25% 50%)" points="   36.14,34   36.14,46   50,54   50,62   36.14,54   36.14,74   29.21,70   29.21,30   "></polyline><polyline fill="hsl(240deg 25% 75%)" points="   36.14,26   43.07,30   36.14,34   29.21,30   "></polyline><polyline fill="hsl(240deg 25% 50%)" points="   63.86,34   63.86,74   56.93,70   56.93,30   "></polyline><polyline fill="hsl(240deg 25% 25%)" points="   63.86,34   63.86,46   50,54   50,62   63.86,54   63.86,74   70.788,70   70.788,54   70.788,30   "></polyline><polyline fill="hsl(240deg 25% 75%)" points="   63.86,26   56.93,30   63.86,34   70.79,30   "></polyline><polyline fill="hsl(240deg 25% 75%)" points="   36.14,46   43.07,42   50,46   56.93,42   63.86,46   50,54   "></polyline></svg>
+
+<!-- 
+hsl(274.62deg 100% 25%); (indigo)    
+hsl(274.62deg 100% 50%); 
+hsl(274.62deg 100% 75%);  
+
+hsl(240deg 25% 25%); (portfolio blue)
+-->
+
